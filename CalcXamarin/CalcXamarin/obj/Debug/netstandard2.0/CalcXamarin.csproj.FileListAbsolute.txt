@@ -1,0 +1,14 @@
+C:\Users\Denis Zelaya\source\repos\CalcXamarin\CalcXamarin\CalcXamarin\bin\Debug\netstandard2.0\CalcXamarin.deps.json
+C:\Users\Denis Zelaya\source\repos\CalcXamarin\CalcXamarin\CalcXamarin\bin\Debug\netstandard2.0\CalcXamarin.dll
+C:\Users\Denis Zelaya\source\repos\CalcXamarin\CalcXamarin\CalcXamarin\bin\Debug\netstandard2.0\ref\CalcXamarin.dll
+C:\Users\Denis Zelaya\source\repos\CalcXamarin\CalcXamarin\CalcXamarin\bin\Debug\netstandard2.0\CalcXamarin.pdb
+C:\Users\Denis Zelaya\source\repos\CalcXamarin\CalcXamarin\CalcXamarin\obj\Debug\netstandard2.0\CalcXamarin.csprojAssemblyReference.cache
+C:\Users\Denis Zelaya\source\repos\CalcXamarin\CalcXamarin\CalcXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Denis Zelaya\source\repos\CalcXamarin\CalcXamarin\CalcXamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Denis Zelaya\source\repos\CalcXamarin\CalcXamarin\CalcXamarin\obj\Debug\netstandard2.0\CalcXamarin.AssemblyInfoInputs.cache
+C:\Users\Denis Zelaya\source\repos\CalcXamarin\CalcXamarin\CalcXamarin\obj\Debug\netstandard2.0\CalcXamarin.AssemblyInfo.cs
+C:\Users\Denis Zelaya\source\repos\CalcXamarin\CalcXamarin\CalcXamarin\obj\Debug\netstandard2.0\CalcXamarin.csproj.CoreCompileInputs.cache
+C:\Users\Denis Zelaya\source\repos\CalcXamarin\CalcXamarin\CalcXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Denis Zelaya\source\repos\CalcXamarin\CalcXamarin\CalcXamarin\obj\Debug\netstandard2.0\CalcXamarin.dll
+C:\Users\Denis Zelaya\source\repos\CalcXamarin\CalcXamarin\CalcXamarin\obj\Debug\netstandard2.0\ref\CalcXamarin.dll
+C:\Users\Denis Zelaya\source\repos\CalcXamarin\CalcXamarin\CalcXamarin\obj\Debug\netstandard2.0\CalcXamarin.pdb

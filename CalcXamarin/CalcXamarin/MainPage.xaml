@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CalcXamarin.MainPage"
+             Visual="Material">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="Calculadora!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+
+ 
+            <Editor 
+                x:Name="n1"
+                Placeholder="Ingrese el primer número"  
+                Keyboard="Numeric"
+                Visual="Material"
+                Margin="10"
+                PlaceholderColor="#2196F3"
+            />
+            <Editor 
+                x:Name="n2"
+                Placeholder="Ingrese el segundo número"  
+                Keyboard="Numeric"
+                Visual="Material"
+                Margin="10"
+                PlaceholderColor="#2196F3"
+            />
+            <Button 
+                Text="Calcular"
+                HeightRequest="50"
+                Visual="Material"
+                Clicked="Button_Calcular"
+                Margin="10"
+                BackgroundColor="#2196F3"
+            />
+            <Label 
+                x:Name="resultado"
+                Text="Resultado"
+                VerticalOptions="FillAndExpand"
+                HorizontalOptions="FillAndExpand"
+                HorizontalTextAlignment="Center"
+                VerticalTextAlignment="Center"
+                FontSize="100"
+                TextColor="Black"
+            />
+  
+    </StackLayout>
+
+</ContentPage>
